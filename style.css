@@ -1,0 +1,9 @@
+.image {
+    width: 200px;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+    display: flex;
+}
